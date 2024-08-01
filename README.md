@@ -37,7 +37,7 @@ Aqui estão alguns dos meus projetos mais recentes!
 
 - **[Books-Web-Scraping](https://github.com/RafaelViniciusBrambillaAlves/Books-Web-Scraping)**: Coleta de dados de livros de um site, utilizando Python, SQL, Airflow, Pandas e PostgreSQL.
 - **[FreeCodeCamp - Machine Learning with Python](https://github.com/RafaelViniciusBrambillaAlves/FCC-Machine-Learning-with-Python)**: Implementações práticas de algoritmos de machine learning com Python.
-- **[ETL-Example](https://github.com/RafaelViniciusBrambillaAlves/project)**: Exemplo de processo ETL com extração, transformação e carregamento de dados utilizando Python, SQL, Meltano, PySpark, Airflow, PostgreSQL, Kafka, Cassandra e Docker.
+- **[ETL-Example](https://github.com/RafaelViniciusBrambillaAlves/project)**: Exemplo de processo ETL com extração, transformação e carregamento de dados utilizando Python, SQL, PySpark, Airflow, PostgreSQL, Kafka, Cassandra e Docker.
 
 ## 📚 Estudos e Aprendizado
 
