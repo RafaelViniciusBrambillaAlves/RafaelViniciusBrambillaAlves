@@ -8,6 +8,7 @@ Explorando o mundo dos dados e curioso por novas tecnologias e desafios. Aqui vo
 
 ### **Linguagens de Programação** 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
 ### **Bancos de Dados** 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -25,7 +26,7 @@ Explorando o mundo dos dados e curioso por novas tecnologias e desafios. Aqui vo
 ![Airflow](https://img.shields.io/badge/Airflow-0177C4?style=for-the-badge&logo=apache-airflow&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### **Aprendendo**
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
