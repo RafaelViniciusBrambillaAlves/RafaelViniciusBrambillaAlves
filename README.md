@@ -37,9 +37,14 @@ Explorando o mundo dos dados e curioso por novas tecnologias e desafios. Aqui vo
 
 Aqui estão alguns dos meus projetos mais recentes!
 
+### Web Scraping
 - **[Books-Web-Scraping](https://github.com/RafaelViniciusBrambillaAlves/Books-Web-Scraping)**: Coleta de dados de livros de um site, utilizando Python, SQL, Airflow, Pandas e PostgreSQL.
+### Machine Learning
 - **[FreeCodeCamp - Machine Learning with Python](https://github.com/RafaelViniciusBrambillaAlves/FCC-Machine-Learning-with-Python)**: Implementações práticas de algoritmos de machine learning com Python.
+### Engenharia de dados
 - **[ETL-Example](https://github.com/RafaelViniciusBrambillaAlves/project)**: Exemplo de processo ETL com extração, transformação e carregamento de dados utilizando Python, SQL, PySpark, Airflow, PostgreSQL, Kafka, Cassandra e Docker.
+### Análise de dados
+- **[House-Sales-in-King-County-USA-Data-Analytics](https://github.com/RafaelViniciusBrambillaAlves/House-Sales-in-King-County-USA-Data-Analytics)**: Análise de dados de casas fictícias do Estados Unidos, utilizando Python, Jupyter Notebook, Pandas, Numpy, Matplotlib e Seaborn.
 
 ## 📚 Estudos e Aprendizado
 
