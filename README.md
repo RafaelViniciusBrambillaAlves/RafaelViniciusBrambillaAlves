@@ -43,6 +43,7 @@ Aqui estão alguns dos meus projetos mais recentes!
 - **[FreeCodeCamp - Machine Learning with Python](https://github.com/RafaelViniciusBrambillaAlves/FCC-Machine-Learning-with-Python)**: Implementações práticas de algoritmos de machine learning com Python.
 ### Engenharia de dados
 - **[ETL-Example](https://github.com/RafaelViniciusBrambillaAlves/project)**: Exemplo de processo ETL com extração, transformação e carregamento de dados utilizando Python, SQL, PySpark, Airflow, PostgreSQL, Kafka, Cassandra e Docker.
+- **[Indicium Tech Code Challenge](https://github.com/RafaelViniciusBrambillaAlves/code-challenge/tree/RafaelViniciusBrambillaAlvesv1.0)**: Desafio para vaga de estágio, objetivo é extrair e carregar dados utilizando Python, SQL, Airflow PostgreSQL, Docker e Meltano 
 ### Análise de dados
 - **[House-Sales-in-King-County-USA-Data-Analytics](https://github.com/RafaelViniciusBrambillaAlves/House-Sales-in-King-County-USA-Data-Analytics)**: Análise de dados de casas fictícias do Estados Unidos, utilizando Python, Jupyter Notebook, Pandas, Numpy, Matplotlib e Seaborn.
 
