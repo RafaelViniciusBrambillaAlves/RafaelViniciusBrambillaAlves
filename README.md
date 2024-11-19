@@ -57,6 +57,12 @@ Abaixo está um gráfico mostrando as linguagens que mais utilizo em meus projet
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelViniciusBrambillaAlves&layout=compact&theme=dracula)
 
+## LeetCode Stats
+
+Aqui está o meu gráfico de estatísticas do LeetCode:
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/rafaelviniciusbrambillaalves)
+
 ## 📫 Entre em Contato
 
 - **Email:** [rafael.brambilla3@gmail.com](mailto:rafael.brambilla3@gmail.com)
