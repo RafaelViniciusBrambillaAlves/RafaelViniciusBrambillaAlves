@@ -55,7 +55,7 @@ Atualmente, estou explorando mais sobre **Cassandra**, **Kafka**, **Spark** e **
 
 Abaixo está um gráfico mostrando as linguagens que mais utilizo em meus projetos:
 
-
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelViniciusBrambillaAlves&layout=compact&theme=dracula)
 
 ## LeetCode Stats
 
