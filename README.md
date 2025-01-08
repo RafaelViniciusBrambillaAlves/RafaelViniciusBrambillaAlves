@@ -31,7 +31,6 @@ Explorando o mundo dos dados e curioso por novas tecnologias e desafios. Aqui vo
 ### **Aprendendo**
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
-![Django](https://img.shields.io/badge/Django-3D8F9D?style=for-the-badge&logo=meltano&logoColor=white)
 
 ## 🚀 Projetos
 
