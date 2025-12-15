@@ -28,10 +28,6 @@ Explorando o mundo dos dados e curioso por novas tecnologias e desafios. Aqui vo
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-### **Aprendendo**
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
-
 ## 🚀 Projetos
 
 Aqui estão alguns dos meus projetos mais recentes!
