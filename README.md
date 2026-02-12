@@ -32,15 +32,19 @@ Explorando o mundo dos dados e curioso por novas tecnologias e desafios. Aqui vo
 
 Aqui estão alguns dos meus projetos mais recentes!
 
-### Web Scraping
-- **[Books-Web-Scraping](https://github.com/RafaelViniciusBrambillaAlves/Books-Web-Scraping)**: Coleta de dados de livros de um site, utilizando Python, SQL, Airflow, Pandas e PostgreSQL.
-### Machine Learning
-- **[FreeCodeCamp - Machine Learning with Python](https://github.com/RafaelViniciusBrambillaAlves/FCC-Machine-Learning-with-Python)**: Implementações práticas de algoritmos de machine learning com Python.
+### Desenvolvimento
+- **[API Pref Rio](https://github.com/RafaelViniciusBrambillaAlves/desafio-backend-pref-rio)**: API backend completa para gestão de passe de transporte digital
+- **[API Mottu](https://github.com/RafaelViniciusBrambillaAlves/api-mottu)**: API backend robusta para gerenciamento de motos, entregadores e locações
 ### Engenharia de dados
+- **[Data Engineer da QR Capital](https://github.com/RafaelViniciusBrambillaAlves/qr-capital-data-eng)**: Pipeline de streaming de dados em tempo real para coletar cotações de Bitcoin da exchange
 - **[ETL-Example](https://github.com/RafaelViniciusBrambillaAlves/project)**: Exemplo de processo ETL com extração, transformação e carregamento de dados utilizando Python, SQL, PySpark, Airflow, PostgreSQL, Kafka, Cassandra e Docker.
 - **[Indicium Tech Code Challenge](https://github.com/RafaelViniciusBrambillaAlves/code-challenge/tree/RafaelViniciusBrambillaAlvesv1.0)**: Desafio para vaga de estágio, objetivo é extrair e carregar dados utilizando Python, SQL, Airflow PostgreSQL, Docker e Meltano 
 ### Análise de dados
 - **[House-Sales-in-King-County-USA-Data-Analytics](https://github.com/RafaelViniciusBrambillaAlves/House-Sales-in-King-County-USA-Data-Analytics)**: Análise de dados de casas fictícias do Estados Unidos, utilizando Python, Jupyter Notebook, Pandas, Numpy, Matplotlib e Seaborn.
+### Web Scraping
+- **[Books-Web-Scraping](https://github.com/RafaelViniciusBrambillaAlves/Books-Web-Scraping)**: Coleta de dados de livros de um site, utilizando Python, SQL, Airflow, Pandas e PostgreSQL.
+### Machine Learning
+- **[FreeCodeCamp - Machine Learning with Python](https://github.com/RafaelViniciusBrambillaAlves/FCC-Machine-Learning-with-Python)**: Implementações práticas de algoritmos de machine learning com Python.
 
 ## 📚 Estudos e Aprendizado
 
