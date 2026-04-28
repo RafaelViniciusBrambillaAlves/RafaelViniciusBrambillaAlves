@@ -38,7 +38,7 @@ Explorando o mundo do desenvolvimento e dos dados, curioso por novas tecnologias
 
 ## 🚀 Projetos
 
-Aqui estão alguns dos meus projetos mais recentes!
+Aqui estão alguns dos meus projetos!
 
 ### Backend
 - **[PicPay Simplificado (Desafio Backend)](https://github.com/RafaelViniciusBrambillaAlves/picpay-challenge)**  
