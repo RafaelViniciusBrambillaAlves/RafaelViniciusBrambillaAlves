@@ -41,7 +41,7 @@ Explorando o mundo do desenvolvimento e dos dados, curioso por novas tecnologias
 Aqui estão alguns dos meus projetos!
 
 ### Backend
-- **[Order fraud System (Microservices )](https://github.com/RafaelViniciusBrambillaAlves/order-fraud-system/settings)** 🚧🚧🚧
+- **[Order fraud System (Microservices )](https://github.com/RafaelViniciusBrambillaAlves/order-fraud-system)** 🚧🚧🚧
 
 - **[PicPay Simplificado (Desafio Backend)](https://github.com/RafaelViniciusBrambillaAlves/picpay-challenge)**  
   Plataforma de pagamentos com regras de negócio para múltiplos tipos de usuário (comum e lojista), incluindo transferências e controle de saldo.  
