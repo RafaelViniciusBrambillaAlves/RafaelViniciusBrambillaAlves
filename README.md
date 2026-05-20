@@ -2,7 +2,7 @@
 
 🎓 **Estudante de Análise e Desenvolvimento de Sistemas** | 💻 **Entusiasta de Tecnologia e Dados**
 
-Explorando o mundo do desenvolvimento e dos dados, curioso por novas tecnologias e desafios. Aqui você encontrará meus projetos, habilidades e um pouco sobre minha jornada!
+Com foco em Desenvolvimento Backend e Engenharia de Dados. Aqui você encontrará meus projetos, habilidades e um pouco sobre minha jornada!
 
 ## 🛠️ Minhas Habilidades 
 
