@@ -93,7 +93,7 @@ Aqui estão alguns dos meus projetos!
 
 ## 📚 Estudos e Aprendizado
 
-Atualmente, estou explorando mais sobre **FastApi**, **.NET** e **Spark** para expandir meu conhecimento em desenvolvimento e engenharia de dados. Se você está aprendendo essas tecnologias também, vamos conversar!
+Atualmente, estou explorando mais sobre **FastApi**, **.NET** e **RabbitMQ** para expandir meu conhecimento em desenvolvimento e engenharia de dados. Se você está aprendendo essas tecnologias também, vamos conversar!
 
 ## 📊 Linguagens Mais Utilizadas
 
